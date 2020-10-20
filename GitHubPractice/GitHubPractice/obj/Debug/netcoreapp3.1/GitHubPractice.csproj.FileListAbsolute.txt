@@ -1,0 +1,4 @@
+C:\Users\Danny\source\repos\GitHubPractice\GitHubPractice\obj\Debug\netcoreapp3.1\GitHubPractice.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\GitHubPractice\GitHubPractice\obj\Debug\netcoreapp3.1\GitHubPractice.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\GitHubPractice\GitHubPractice\obj\Debug\netcoreapp3.1\GitHubPractice.AssemblyInfo.cs
+C:\Users\Danny\source\repos\GitHubPractice\GitHubPractice\obj\Debug\netcoreapp3.1\GitHubPractice.csproj.CoreCompileInputs.cache

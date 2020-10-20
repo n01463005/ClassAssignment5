@@ -1,0 +1,13 @@
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\bin\Debug\netcoreapp3.1\Class4Loops.exe
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\bin\Debug\netcoreapp3.1\Class4Loops.deps.json
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\bin\Debug\netcoreapp3.1\Class4Loops.runtimeconfig.json
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\bin\Debug\netcoreapp3.1\Class4Loops.runtimeconfig.dev.json
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\bin\Debug\netcoreapp3.1\Class4Loops.dll
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\bin\Debug\netcoreapp3.1\Class4Loops.pdb
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\obj\Debug\netcoreapp3.1\Class4Loops.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\obj\Debug\netcoreapp3.1\Class4Loops.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\obj\Debug\netcoreapp3.1\Class4Loops.AssemblyInfo.cs
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\obj\Debug\netcoreapp3.1\Class4Loops.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\obj\Debug\netcoreapp3.1\Class4Loops.dll
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\obj\Debug\netcoreapp3.1\Class4Loops.pdb
+C:\Users\Danny\source\repos\Class4Loops\Class4Loops\obj\Debug\netcoreapp3.1\Class4Loops.genruntimeconfig.cache

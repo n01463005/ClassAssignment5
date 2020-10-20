@@ -1,0 +1,13 @@
+C:\Users\Danny\source\repos\TestVb\TestVb\bin\Debug\netcoreapp3.1\TestVb.exe
+C:\Users\Danny\source\repos\TestVb\TestVb\bin\Debug\netcoreapp3.1\TestVb.deps.json
+C:\Users\Danny\source\repos\TestVb\TestVb\bin\Debug\netcoreapp3.1\TestVb.runtimeconfig.json
+C:\Users\Danny\source\repos\TestVb\TestVb\bin\Debug\netcoreapp3.1\TestVb.runtimeconfig.dev.json
+C:\Users\Danny\source\repos\TestVb\TestVb\bin\Debug\netcoreapp3.1\TestVb.dll
+C:\Users\Danny\source\repos\TestVb\TestVb\bin\Debug\netcoreapp3.1\TestVb.pdb
+C:\Users\Danny\source\repos\TestVb\TestVb\obj\Debug\netcoreapp3.1\TestVb.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\TestVb\TestVb\obj\Debug\netcoreapp3.1\TestVb.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\TestVb\TestVb\obj\Debug\netcoreapp3.1\TestVb.AssemblyInfo.cs
+C:\Users\Danny\source\repos\TestVb\TestVb\obj\Debug\netcoreapp3.1\TestVb.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\TestVb\TestVb\obj\Debug\netcoreapp3.1\TestVb.dll
+C:\Users\Danny\source\repos\TestVb\TestVb\obj\Debug\netcoreapp3.1\TestVb.pdb
+C:\Users\Danny\source\repos\TestVb\TestVb\obj\Debug\netcoreapp3.1\TestVb.genruntimeconfig.cache
