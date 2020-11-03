@@ -1,0 +1,13 @@
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\bin\Debug\netcoreapp3.1\ClassAndStruct.exe
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\bin\Debug\netcoreapp3.1\ClassAndStruct.deps.json
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\bin\Debug\netcoreapp3.1\ClassAndStruct.runtimeconfig.json
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\bin\Debug\netcoreapp3.1\ClassAndStruct.runtimeconfig.dev.json
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\bin\Debug\netcoreapp3.1\ClassAndStruct.dll
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\bin\Debug\netcoreapp3.1\ClassAndStruct.pdb
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\obj\Debug\netcoreapp3.1\ClassAndStruct.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\obj\Debug\netcoreapp3.1\ClassAndStruct.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\obj\Debug\netcoreapp3.1\ClassAndStruct.AssemblyInfo.cs
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\obj\Debug\netcoreapp3.1\ClassAndStruct.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\obj\Debug\netcoreapp3.1\ClassAndStruct.dll
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\obj\Debug\netcoreapp3.1\ClassAndStruct.pdb
+C:\Users\Danny\source\repos\ClassAndStruct\ClassAndStruct\obj\Debug\netcoreapp3.1\ClassAndStruct.genruntimeconfig.cache

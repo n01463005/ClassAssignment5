@@ -7,14 +7,50 @@ namespace ClassAssignment5
         static void Main(string[] args)
         {
             Add();
-            
-            
+            Console.ReadLine();
+
         }
+        
+        
+       
         private static void Add()
         {
-            Console.WriteLine("Type a number ");
+            
 
-            double a = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Type a number ");
+            string input = Console.ReadLine();
+            string[] parseString = input.Split(' + ');
+            int result = 0;
+            foreach(string x in parseString)
+            {
+                int y = Convert.ToInt32(x);
+                result = y + result;
+            }
+            Console.WriteLine(result);
+/*            if (int.TryParse(Console.ReadLine(), out n))
+            {
+               
+                if (int.TryParse(Console.ReadLine(), out i))
+                {
+                    sum = i + n;
+                    Console.Write("The sum of the numbers is :");
+                    Console.WriteLine(sum);
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+
+            }
+            else
+            {
+                Console.WriteLine("enter a valid number");
+                return false;
+            }
+            */
+               
+         /*   double a = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Select + operator ");
 
@@ -33,7 +69,7 @@ namespace ClassAssignment5
                 Console.WriteLine("invalid statment");
             }
             Console.ReadLine();
-           
+           */
 
 
            

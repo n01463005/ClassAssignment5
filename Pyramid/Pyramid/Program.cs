@@ -16,8 +16,9 @@ namespace Pyramid
         static void PyramidShape()
 
         {
+           int n;
             Console.WriteLine("Select an odd number");
-            int n = 5;
+              n = Convert.ToInt32(Console.ReadLine());
 
             for (int i = 1; i <= n; i++)
             {
