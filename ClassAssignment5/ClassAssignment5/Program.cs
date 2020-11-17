@@ -7,30 +7,32 @@ namespace ClassAssignment5
         static void Main(string[] args)
         {
             Add();
-            Console.ReadLine();
 
+          
         }
-        
-        
-       
+
+
+
         private static void Add()
         {
-            
+
 
             Console.WriteLine("Type a number ");
             string input = Console.ReadLine();
-            string[] parseString = input.Split(' + ');
+            string[] parseString = input.Split('+');
             int result = 0;
-            foreach(string x in parseString)
+            foreach (string x in parseString)
             {
                 int y = Convert.ToInt32(x);
                 result = y + result;
             }
             Console.WriteLine(result);
-/*            if (int.TryParse(Console.ReadLine(), out n))
-            {
-               
-                if (int.TryParse(Console.ReadLine(), out i))
+            Console.ReadLine();
+        }
+  }        // if (int.TryParse(Console.ReadLine(), out n))
+         //   {
+   }            
+           /*  //   if (int.TryParse(Console.ReadLine(), out i))
                 {
                     sum = i + n;
                     Console.Write("The sum of the numbers is :");
@@ -73,8 +75,8 @@ namespace ClassAssignment5
 
 
            
-        }
+        
         
 
-    }
-}
+    
+

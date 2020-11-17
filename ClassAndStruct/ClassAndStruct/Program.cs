@@ -5,7 +5,9 @@ namespace ClassAndStruct
     class Program
     {
         static void Main(string[] args)
+
         {
+          
             Person person1 = new Person("Betty", "Kidane");
             Console.WriteLine(person1);
 
