@@ -6,7 +6,7 @@ using System.Text;
 
 namespace CareerCloud.ADODataAccessLayer
 {
-   public abstract class BaseAdo
+      public abstract class BaseAdo
     {
         protected readonly string _connStr = string.Empty;
         public BaseAdo()
