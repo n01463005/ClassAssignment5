@@ -7,39 +7,48 @@ namespace FinalExam
         static void Main(string[] args)
         {
             Adult adult = new Adult();
+            adult.FName = Paul;
+            adult.LName = Peter;
             Child child = new Child();
+            child.FName = winta;
+            child.LName = Samiel;
 
-
-            foreach (child in Child)
+        Parent[] Names = new Parent[] {adult,child};
+            foreach (Parent N in Names)
             {
-
+                    N.Name();
             }
 
         }
 
-        public class Parent
+        public Interface Parent
         {
-            Array[,] String = new Array[,] { firstname, lastname };
+           public void Name();            
 
         }
 
         public class Adult:Parent
         {
-            string firstname, lastname;
+           public  string firstname, lastname;
             
-            public Adult()
+            public void Name()
             {
-              string  name = firstname + lastname;
+              Console.Write(FName);
+                Console.Write(LName);
                 
             }
         }
         
         public class Child:Parent
         {
-            string firstname, lastname;
-        }
+           public string firstname, lastname;
+            public void Name()
+            {
+                Console.Write(FName);
+                Console.Write(LName);
+             }
         
 
-    }
+         }
     
 }
